@@ -1,8 +1,8 @@
 # ShieldClimb – Show Sale and Original Price in Cart
 
-<p align="center">
-  <img src="https://shieldclimb.com/wp-content/uploads/2025/03/ShieldClimb-logo-with-name-500x200-1.png" alt="Brand Logo" width="250"><br>
-  <img src="https://shieldclimb.com/wp-content/uploads/2025/03/Show-Sale-and-Original-Price-in-Cart-for-WooCommerce.png" alt="Product Logo" width="250">
+<p align="left">
+  <img src="https://shieldclimb.com/wp-content/uploads/2025/03/ShieldClimb-logo-with-name-500x200-1.png" alt="Brand Logo" width="120"><br>
+  <img src="https://shieldclimb.com/wp-content/uploads/2025/03/Show-Sale-and-Original-Price-in-Cart-for-WooCommerce.png" alt="Product Logo" width="120">
 </p>
 
 [![WooCommerce Compatibility](https://img.shields.io/badge/WooCommerce-5.8+-blue)](https://woocommerce.com/)
