@@ -7,7 +7,7 @@
  * Version: 1.0.0
  * Requires Plugins: woocommerce
  * Requires at least: 5.8
- * Tested up to: 6.7.2
+ * Tested up to: 6.7
  * WC requires at least: 5.8
  * WC tested up to: 9.7.1
  * Requires PHP: 7.2
@@ -21,9 +21,9 @@ if (!defined('ABSPATH')) {
     exit; // Exit if accessed directly.
 }
 
-add_filter( 'woocommerce_cart_item_price', 'show_sale_regular_cart_price', 30, 3 );
+add_filter( 'woocommerce_cart_item_price', 'shieldclimb_sale_regular_cart_price', 30, 3 );
   
-function show_sale_regular_cart_price( $price, $values, $cart_item_key ) {
+function shieldclimb_sale_regular_cart_price( $price, $values, $cart_item_key ) {
    $slashed_price = $values['data']->get_price_html();
    $is_on_sale = $values['data']->is_on_sale();
    if ( $is_on_sale ) {

@@ -3,7 +3,7 @@ Contributors: shieldclimb
 Donate link: https://shieldclimb.com/
 Tags: woocommerce cart price, show sale price in cart, woocommerce sale price display, cart price visibility, display regular and sale prices
 Requires at least: 5.8
-Tested up to: 6.7.2
+Tested up to: 6.7
 Stable tag: 1.0.0
 Requires PHP: 7.2
 WC requires at least: 5.8
